@@ -1,6 +1,6 @@
 {
   "name": "currency-component",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "format currency",
   "main": "index.js",
   "repository": {
